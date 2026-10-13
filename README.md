@@ -145,8 +145,8 @@
 ### Локальная установка (без Colab)
 
 ```bash
-git clone https://github.com/your-username/rag-assistant.git
-cd rag-assistant
+git clone https://github.com/kkzetchi/projectkgeu.git
+cd projectkgeu
 pip install -r requirements.txt
 jupyter notebook RAG_Assistant.ipynb
 ```
